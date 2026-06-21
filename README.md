@@ -56,38 +56,9 @@ Dec 2025 – May 2026    LLM Research Intern, CMU School of Computer Science
 
 ### 🏆 Hackathons
 
-Built **[Laundr](https://github.com/hethb/Laundr)** at **HackCMU 2025** — shipped a full project in a weekend sprint.
+Built **[Laundr](https://github.com/hethb/Laundr)** at **HackCMU 2025**.
 
----
-
-### 🚀 Featured Projects
-
-<!-- Repo links below are best guesses based on project names from my resume/notes —
-     swap in the exact slugs from your repo list if any of these don't match. -->
-
-| Project | Stack | What it does |
-|---|---|---|
-| [**PathIQ**](https://github.com/hethb) | Python, FastAPI, React, Digital Pathology, AI Explainability | AI-assisted digital pathology platform automating IHC slide scoring — confidence scoring, explainability heatmaps, uncertainty-based review queues, audit trails |
-| [**Compiler from Scratch**](https://github.com/hethb/Compiler-From-Scratch) | C, Assembly | A compiler built from the ground up — tokenizer → parser → AST → semantic analysis → codegen, with manual stack/register handling |
-| [**Timly**](https://github.com/hethb/Timly) *(side project)* | React, Python, RAG, Google Calendar API, Supabase | Calendar app that ranks tasks by importance and auto-syncs them into your schedule — tested positively by 20+ CMU students |
-| [**ZNF835 Cancer Gene Research**](https://github.com/hethb) | Python, PyTorch, Pandas | CNN classifying cancerous vs. non-cancerous tissue (85%+ accuracy); identified ZNF835 as a candidate oncogene — published in IJISRT |
-
-<!--
-🎥 Want a demo GIF here like the TartanHacks example? Record your screen with something
-like Kap, ScreenToGif, or `terminalizer`, drop the .gif into an `assets/` folder in this
-repo, then embed it right under a project row like this:
-
-<p align="center"><img src="assets/veyr-demo.gif" width="600"/></p>
--->
-
----
-
-### 🏆 Awards & Honors
-
-- 🥇 San Diego County Mock Trial — 1st place (2023), 2nd place (2024); CA state finalist, 6th in state (2023)
-- 🧠 Inspirit AI — Best Project & Presentation, out of 200+ students worldwide (2024)
-- 🔬 Outstanding Research Presentation Award, Rosetta Institute of Biomedical Research (2024)
-- 🎖️ San Diego County Supervisor's Certificate of Recognition for Leadership (2023)
+Built **[Séance](https://github.com/hethb/Seance)** at **Cal AI Hacks 2026**.
 
 ---
 
@@ -112,8 +83,7 @@ repo, then embed it right under a project row like this:
 <img src="https://raw.githubusercontent.com/hethb/hethb/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution snake animation"/>
 </div>
 
-> Animated snake that eats its way through my contribution graph — auto-regenerated daily via GitHub Actions.
-> ⚠️ Won't render until the workflow runs once — see `snake.yml` setup steps from earlier.
+
 
 ---
 
