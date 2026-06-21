@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1e3c72,100:2a5298&height=220&section=header&text=Heth%20Bhatt&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CS%20%2B%20Information%20Systems%20%40%20CMU%20%E2%80%94%20ML%20Research%20%E2%80%A2%20Founder&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:1e3c72,100:2a5298&height=220&section=header&text=Heth%20Bhatt&fontSize=58&fontColor=ffffff&animation=blinking&fontAlignY=36&desc=CS%20%2B%20Information%20Systems%20%40%20CMU%20%E2%80%94%20ML%20Research%20%E2%80%A2%20Founder&descAlignY=58&descSize=17&stroke=2a5298" width="100%"/>
 
 <a href="https://github.com/hethb">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+ML+pipelines+for+fine+tuning;Researching+LLM+tutoring+agents+at+CMU;Founder+%40+Veyr;Built+PathIQ%2C+a+digital+pathology+AI+platform;Welcome+to+my+profile!&font=Fira+Code&center=true&width=650&height=50&color=58A6FF&vCenter=true&size=20"/>
@@ -35,14 +35,28 @@
 
 ---
 
+### 💼 Experience
+
+```text
+May 2026 – Present     Machine Learning Intern, Sanford Burnham Prebys
+                        → PyTorch (UNI + LoRA) pipeline predicting age/telomere length
+                          from gigapixel pathology images
+
+Apr 2026 – Present     Founder, Veyr
+                        → AI-powered browser extension + analytics platform that guides
+                          ChatGPT/Claude toward shorter, higher-signal responses; Chrome
+                          extension, React dashboard, Express API, DOM-based interception
+
+Dec 2025 – May 2026    LLM Research Intern, CMU School of Computer Science
+                        → Rule-based reasoning for LLM tutoring agents (Cognitive
+                          Authoring Tools); 1,000+ lines shipped to a live research codebase
+```
+
+---
 
 ### 🏆 Hackathons
 
-Built **[Laundr](https://github.com/hethb/Laundr)** at **HackCMU 2025**
-
-Built **[Séance](https://github.com/hethb/Seance)** at **Cal AI Hacks 2026**
-
-
+Built **[Laundr](https://github.com/hethb/Laundr)** at **HackCMU 2025** — shipped a full project in a weekend sprint.
 
 ---
 
@@ -54,6 +68,7 @@ Built **[Séance](https://github.com/hethb/Seance)** at **Cal AI Hacks 2026**
 | Project | Stack | What it does |
 |---|---|---|
 | [**PathIQ**](https://github.com/hethb) | Python, FastAPI, React, Digital Pathology, AI Explainability | AI-assisted digital pathology platform automating IHC slide scoring — confidence scoring, explainability heatmaps, uncertainty-based review queues, audit trails |
+| [**Compiler from Scratch**](https://github.com/hethb/Compiler-From-Scratch) | C, Assembly | A compiler built from the ground up — tokenizer → parser → AST → semantic analysis → codegen, with manual stack/register handling |
 | [**Timly**](https://github.com/hethb/Timly) *(side project)* | React, Python, RAG, Google Calendar API, Supabase | Calendar app that ranks tasks by importance and auto-syncs them into your schedule — tested positively by 20+ CMU students |
 | [**ZNF835 Cancer Gene Research**](https://github.com/hethb) | Python, PyTorch, Pandas | CNN classifying cancerous vs. non-cancerous tissue (85%+ accuracy); identified ZNF835 as a candidate oncogene — published in IJISRT |
 
@@ -65,6 +80,14 @@ repo, then embed it right under a project row like this:
 <p align="center"><img src="assets/veyr-demo.gif" width="600"/></p>
 -->
 
+---
+
+### 🏆 Awards & Honors
+
+- 🥇 San Diego County Mock Trial — 1st place (2023), 2nd place (2024); CA state finalist, 6th in state (2023)
+- 🧠 Inspirit AI — Best Project & Presentation, out of 200+ students worldwide (2024)
+- 🔬 Outstanding Research Presentation Award, Rosetta Institute of Biomedical Research (2024)
+- 🎖️ San Diego County Supervisor's Certificate of Recognition for Leadership (2023)
 
 ---
 
@@ -89,7 +112,8 @@ repo, then embed it right under a project row like this:
 <img src="https://raw.githubusercontent.com/hethb/hethb/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution snake animation"/>
 </div>
 
-
+> Animated snake that eats its way through my contribution graph — auto-regenerated daily via GitHub Actions.
+> ⚠️ Won't render until the workflow runs once — see `snake.yml` setup steps from earlier.
 
 ---
 
