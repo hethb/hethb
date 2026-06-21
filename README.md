@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1e3c72,100:2a5298&height=220&section=header&text=Heth%20Bhatt&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CS%20%2B%20Information%20Systems%20%40%20CMU%20%E2%80%94%20ML%20Research%20%E2%80%A2%20Founder&descAlignY=58&descSize=17" width="100%"/>
 
 <a href="https://github.com/hethb">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+ML+pipelines+for+fine+tuning;Researching+LLM+tutoring+agents+at+CMU;Founder+%40+Veyr;Built+an+AI+platform+to+automate+IHC+slide+scoring;Welcome+to+my+profile!&font=Fira+Code&center=true&width=650&height=50&color=58A6FF&vCenter=true&size=20"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+ML+pipelines+for+fine+tuning;Researching+LLM+tutoring+agents+at+CMU;Founder+%40+Veyr;Built+PathIQ%2C+a+digital+pathology+AI+platform;Welcome+to+my+profile!&font=Fira+Code&center=true&width=650&height=50&color=58A6FF&vCenter=true&size=20"/>
 </a>
 
 </div>
@@ -15,9 +15,10 @@
 - 🎓 **B.S. Information Systems** (+ CS) @ **Carnegie Mellon University** — Class of 2028
 - 🔬 Machine Learning Intern @ **Sanford Burnham Prebys**, building PyTorch pipelines to help fine tune vision learning models
 - 🤖 LLM Research Intern @ **CMU School of Computer Science**, working on reasoning systems for tutoring agents
-- 🚀 Founder of **Veyr** — an AI-assisted proxy between engineers and their AI agents to optimize token usage
+- 🚀 Founder of <!-- best-guess repo slug, swap if it's named something else --> [**Veyr**](https://github.com/hethb/TokenGuard) — an AI-powered browser extension + analytics platform that optimizes LLM prompts and trims token usage in real time
+- 🩺 Built **PathIQ** — an AI-assisted digital pathology platform automating IHC slide scoring
 - 📄 Published researcher — identified **ZNF835** as a candidate oncogene via CNN-based image classification
-- 🏗️ Currently writing a **compiler from scratch** in C
+- 🏗️ Built a **compiler from scratch** in C
 - 🃏 Phi Delta Theta · CMU Poker
 
 ---
@@ -26,26 +27,9 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,html,css,r&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,pytorch,pandas&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,gcp,git,github,linux,figma&theme=dark" />
 
 </div>
 
@@ -58,29 +42,43 @@ May 2026 – Present     Machine Learning Intern, Sanford Burnham Prebys
                         → PyTorch (UNI + LoRA) pipeline predicting age/telomere length
                           from gigapixel pathology images
 
-Dec 2025 – May 2026     LLM Research Intern, CMU School of Computer Science
+Apr 2026 – Present     Founder, Veyr
+                        → AI-powered browser extension + analytics platform that guides
+                          ChatGPT/Claude toward shorter, higher-signal responses; Chrome
+                          extension, React dashboard, Express API, DOM-based interception
+
+Dec 2025 – May 2026    LLM Research Intern, CMU School of Computer Science
                         → Rule-based reasoning for LLM tutoring agents (Cognitive
                           Authoring Tools); 1,000+ lines shipped to a live research codebase
-
-Nov 2025 – Present      Founder, PathIQ
-                        → AI-assisted IHC slide scoring with confidence heatmaps,
-                          human-override logging, and compliance audit trails
 ```
+
+---
+
+### 🏆 Hackathons
+
+Built **[Laundr](https://github.com/hethb/Laundr)** at **HackCMU 2025** — shipped a full project in a weekend sprint.
 
 ---
 
 ### 🚀 Featured Projects
 
-<!-- Repo links below are best guesses based on project names from my resume —
+<!-- Repo links below are best guesses based on project names from my resume/notes —
      swap in the exact slugs from your repo list if any of these don't match. -->
 
 | Project | Stack | What it does |
 |---|---|---|
+| [**PathIQ**](https://github.com/hethb) | Python, FastAPI, React, Digital Pathology, AI Explainability | AI-assisted digital pathology platform automating IHC slide scoring — confidence scoring, explainability heatmaps, uncertainty-based review queues, audit trails |
 | [**Compiler from Scratch**](https://github.com/hethb/Compiler-From-Scratch) | C, Assembly | A compiler built from the ground up — tokenizer → parser → AST → semantic analysis → codegen, with manual stack/register handling |
-| [**TokenGuard**](https://github.com/hethb/TokenGuard) | TypeScript, React, Express, Chrome APIs | Published Chrome extension that trims LLM prompt/response token usage in real time, with a React analytics dashboard and 28 unit tests |
-| [**Timly**](https://github.com/hethb/Timly) | React, Python, RAG, Google Calendar API, Supabase | Calendar app that ranks tasks by importance and auto-syncs them into your schedule — tested positively by 20+ CMU students |
-| [**PathIQ**](https://github.com/hethb) | PyTorch, ML Infra, GCP | AI-assisted digital pathology platform for IHC slide scoring — confidence scoring, explainability heatmaps, audit trails |
+| [**Timly**](https://github.com/hethb/Timly) *(side project)* | React, Python, RAG, Google Calendar API, Supabase | Calendar app that ranks tasks by importance and auto-syncs them into your schedule — tested positively by 20+ CMU students |
 | [**ZNF835 Cancer Gene Research**](https://github.com/hethb) | Python, PyTorch, Pandas | CNN classifying cancerous vs. non-cancerous tissue (85%+ accuracy); identified ZNF835 as a candidate oncogene — published in IJISRT |
+
+<!--
+🎥 Want a demo GIF here like the TartanHacks example? Record your screen with something
+like Kap, ScreenToGif, or `terminalizer`, drop the .gif into an `assets/` folder in this
+repo, then embed it right under a project row like this:
+
+<p align="center"><img src="assets/veyr-demo.gif" width="600"/></p>
+-->
 
 ---
 
@@ -102,7 +100,20 @@ Nov 2025 – Present      Founder, PathIQ
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hethb&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hethb&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
 </div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/hethb/hethb/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution snake animation"/>
+</div>
+
+> Animated snake that eats its way through my contribution graph — auto-regenerated daily via GitHub Actions.
+> ⚠️ Won't render until the workflow runs once — see `snake.yml` setup steps from earlier.
 
 ---
 
@@ -111,8 +122,7 @@ Nov 2025 – Present      Founder, PathIQ
 ### 📫 Let's Connect
 
 <a href="mailto:hjbhatt@andrew.cmu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<!-- Add your LinkedIn URL here -->
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/heth-bhatt-9911b8274/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br/>
 
