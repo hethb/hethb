@@ -35,28 +35,13 @@
 
 ---
 
-### 💼 Experience
-
-```text
-May 2026 – Present     Machine Learning Intern, Sanford Burnham Prebys
-                        → PyTorch (UNI + LoRA) pipeline predicting age/telomere length
-                          from gigapixel pathology images
-
-Apr 2026 – Present     Founder, Veyr
-                        → AI-powered browser extension + analytics platform that guides
-                          ChatGPT/Claude toward shorter, higher-signal responses; Chrome
-                          extension, React dashboard, Express API, DOM-based interception
-
-Dec 2025 – May 2026    LLM Research Intern, CMU School of Computer Science
-                        → Rule-based reasoning for LLM tutoring agents (Cognitive
-                          Authoring Tools); 1,000+ lines shipped to a live research codebase
-```
-
----
 
 ### 🏆 Hackathons
 
-Built **[Laundr](https://github.com/hethb/Laundr)** at **HackCMU 2025** — shipped a full project in a weekend sprint.
+Built **[Laundr](https://github.com/hethb/Laundr)** at **HackCMU 2025**
+Built **[Séance](https://github.com/hethb/Seance)** at **Cal AI Hacks 2026**
+
+
 
 ---
 
@@ -68,7 +53,6 @@ Built **[Laundr](https://github.com/hethb/Laundr)** at **HackCMU 2025** — ship
 | Project | Stack | What it does |
 |---|---|---|
 | [**PathIQ**](https://github.com/hethb) | Python, FastAPI, React, Digital Pathology, AI Explainability | AI-assisted digital pathology platform automating IHC slide scoring — confidence scoring, explainability heatmaps, uncertainty-based review queues, audit trails |
-| [**Compiler from Scratch**](https://github.com/hethb/Compiler-From-Scratch) | C, Assembly | A compiler built from the ground up — tokenizer → parser → AST → semantic analysis → codegen, with manual stack/register handling |
 | [**Timly**](https://github.com/hethb/Timly) *(side project)* | React, Python, RAG, Google Calendar API, Supabase | Calendar app that ranks tasks by importance and auto-syncs them into your schedule — tested positively by 20+ CMU students |
 | [**ZNF835 Cancer Gene Research**](https://github.com/hethb) | Python, PyTorch, Pandas | CNN classifying cancerous vs. non-cancerous tissue (85%+ accuracy); identified ZNF835 as a candidate oncogene — published in IJISRT |
 
@@ -80,14 +64,6 @@ repo, then embed it right under a project row like this:
 <p align="center"><img src="assets/veyr-demo.gif" width="600"/></p>
 -->
 
----
-
-### 🏆 Awards & Honors
-
-- 🥇 San Diego County Mock Trial — 1st place (2023), 2nd place (2024); CA state finalist, 6th in state (2023)
-- 🧠 Inspirit AI — Best Project & Presentation, out of 200+ students worldwide (2024)
-- 🔬 Outstanding Research Presentation Award, Rosetta Institute of Biomedical Research (2024)
-- 🎖️ San Diego County Supervisor's Certificate of Recognition for Leadership (2023)
 
 ---
 
