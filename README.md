@@ -39,6 +39,7 @@
 ### 🏆 Hackathons
 
 Built **[Laundr](https://github.com/hethb/Laundr)** at **HackCMU 2025**
+
 Built **[Séance](https://github.com/hethb/Seance)** at **Cal AI Hacks 2026**
 
 
