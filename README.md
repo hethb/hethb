@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1e3c72,100:2a5298&height=220&section=header&text=Heth%20Bhatt&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CS%20%2B%20Information%20Systems%20%40%20CMU%20%E2%80%94%20ML%20Research%20%E2%80%A2%20Founder&descAlignY=58&descSize=17" width="100%"/>
 
 <a href="https://github.com/hethb">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+ML+pipelines+for+fine+tuning+and+digital+pathology;Researching+LLM+tutoring+agents+at+CMU;Founder+%40+Veyr;Built+an+AI+platform+to+automate+IHC+slide+scoring;Welcome+to+my+profile!&font=Fira+Code&center=true&width=650&height=50&color=58A6FF&vCenter=true&size=20"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+ML+pipelines+for+fine+tuning;Researching+LLM+tutoring+agents+at+CMU;Founder+%40+Veyr;Built+an+AI+platform+to+automate+IHC+slide+scoring;Welcome+to+my+profile!&font=Fira+Code&center=true&width=650&height=50&color=58A6FF&vCenter=true&size=20"/>
 </a>
 
 </div>
