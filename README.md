@@ -89,8 +89,7 @@ repo, then embed it right under a project row like this:
 <img src="https://raw.githubusercontent.com/hethb/hethb/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution snake animation"/>
 </div>
 
-> Animated snake that eats its way through my contribution graph — auto-regenerated daily via GitHub Actions.
-> ⚠️ Won't render until the workflow runs once — see `snake.yml` setup steps from earlier.
+
 
 ---
 
