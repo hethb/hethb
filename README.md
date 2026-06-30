@@ -10,20 +10,20 @@
 
 ---
 
-### 🧭 About Me
+###  About Me
 
 - 🎓 **B.S. Information Systems** (+ CS) @ **Carnegie Mellon University** — Class of 2028
-- 🔬 Machine Learning Intern @ **Sanford Burnham Prebys**, building PyTorch pipelines to help fine tune vision learning models
-- 🤖 LLM Research Intern @ **CMU School of Computer Science**, working on reasoning systems for tutoring agents
-- 🚀 Founder of <!-- best-guess repo slug, swap if it's named something else --> [**Veyr**](https://github.com/hethb/TokenGuard) — an AI-powered browser extension + analytics platform that optimizes LLM prompts and trims token usage in real time
-- 🩺 Built **PathIQ** — an AI-assisted digital pathology platform automating IHC slide scoring
-- 📄 Published researcher — identified **ZNF835** as a candidate oncogene via CNN-based image classification
-- 🏗️ Built a **compiler from scratch** in C
-- 🃏 Phi Delta Theta · CMU Poker
+-  Machine Learning Intern @ **Sanford Burnham Prebys**, building PyTorch pipelines to help fine tune vision learning models
+-  LLM Research Intern @ **CMU School of Computer Science**, working on reasoning systems for tutoring agents
+-  Founder of <!-- best-guess repo slug, swap if it's named something else --> [**Veyr**](https://github.com/hethb/TokenGuard) — an AI-powered browser extension + analytics platform that optimizes LLM prompts and trims token usage in real time
+-  Built **PathIQ** — an AI-assisted digital pathology platform automating IHC slide scoring
+-  Published researcher — identified **ZNF835** as a candidate oncogene via CNN-based image classification
+-  Built a **compiler from scratch** in C
+-  Phi Delta Theta · CMU Poker
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 
 <div align="center">
 
@@ -35,7 +35,7 @@
 
 ---
 
-### 💼 Experience
+###  Experience
 
 ```text
 May 2026 – Present     Machine Learning Intern, Sanford Burnham Prebys
@@ -54,7 +54,7 @@ Dec 2025 – May 2026    LLM Research Intern, CMU School of Computer Science
 
 ---
 
-### 🏆 Hackathons
+###  Hackathons
 
 Built **[Laundr](https://github.com/hethb/Laundr)** at **HackCMU 2025**.
 
@@ -62,7 +62,7 @@ Built **[Séance](https://github.com/hethb/Seance)** at **Cal AI Hacks 2026**.
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
 
@@ -77,7 +77,7 @@ Built **[Séance](https://github.com/hethb/Seance)** at **Cal AI Hacks 2026**.
 
 ---
 
-### 🐍 Contribution Snake
+
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/hethb/hethb/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution snake animation"/>
@@ -89,7 +89,7 @@ Built **[Séance](https://github.com/hethb/Seance)** at **Cal AI Hacks 2026**.
 
 <div align="center">
 
-### 📫 Let's Connect
+###  Let's Connect
 
 <a href="mailto:hjbhatt@andrew.cmu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/heth-bhatt-9911b8274/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
