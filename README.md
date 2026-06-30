@@ -12,7 +12,7 @@
 
 ###  About Me
 
-- 🎓 **B.S. Information Systems** (+ CS) @ **Carnegie Mellon University** — Class of 2028
+-  **B.S. Information Systems** (+ CS) @ **Carnegie Mellon University** — Class of 2028
 -  Machine Learning Intern @ **Sanford Burnham Prebys**, building PyTorch pipelines to help fine tune vision learning models
 -  LLM Research Intern @ **CMU School of Computer Science**, working on reasoning systems for tutoring agents
 -  Founder of <!-- best-guess repo slug, swap if it's named something else --> [**Veyr**](https://github.com/hethb/TokenGuard) — an AI-powered browser extension + analytics platform that optimizes LLM prompts and trims token usage in real time
