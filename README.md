@@ -100,4 +100,4 @@ Built **[Séance](https://github.com/hethb/Seance)** at **Cal AI Hacks 2026**.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,50:1e3c72,100:0f2027&height=100&section=footer" width="100%"/>
+
