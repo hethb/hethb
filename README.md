@@ -24,12 +24,26 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,html,css,r&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,pytorch,pandas&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=docker,gcp,git,github,linux,figma&theme=dark" />
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,html,css,r&theme=dark" /><br/>
+<sub>Java · Python · C++ · C · JavaScript · TypeScript · HTML5 · CSS3 · R</sub>
+
+<br/><br/>
+
+**Frontend / Backend / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,pytorch,pandas&theme=dark" /><br/>
+<sub>React · Node.js · Flask · FastAPI · PyTorch · Pandas</sub>
+
+<br/><br/>
+
+**DevOps / Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,gcp,git,github,linux,figma&theme=dark" /><br/>
+<sub>Docker · Google Cloud · Git · GitHub · Linux · Figma</sub>
 
 </div>
-
 ---
 
 
