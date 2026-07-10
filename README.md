@@ -15,10 +15,7 @@
 -  **B.S. Information Systems** (+ CS) @ **Carnegie Mellon University** — Class of 2028
 -  Machine Learning Intern @ **Sanford Burnham Prebys**, building PyTorch pipelines to help fine tune vision learning models
 -  LLM Research Intern @ **CMU School of Computer Science**, working on reasoning systems for tutoring agents
--  Founder of <!-- best-guess repo slug, swap if it's named something else --> [**Veyr**](https://github.com/hethb/TokenGuard) — an AI-powered browser extension + analytics platform that optimizes LLM prompts and trims token usage in real time
--  Built **PathIQ** — an AI-assisted digital pathology platform automating IHC slide scoring
 -  Published researcher — identified **ZNF835** as a candidate oncogene via CNN-based image classification
--  Built a **compiler from scratch** in C
 -  Phi Delta Theta · CMU Poker
 
 ---
@@ -35,32 +32,6 @@
 
 ---
 
-###  Experience
-
-```text
-May 2026 – Present     Machine Learning Intern, Sanford Burnham Prebys
-                        → PyTorch (UNI + LoRA) pipeline predicting age/telomere length
-                          from gigapixel pathology images
-
-Apr 2026 – Present     Founder, Veyr
-                        → AI-powered browser extension + analytics platform that guides
-                          ChatGPT/Claude toward shorter, higher-signal responses; Chrome
-                          extension, React dashboard, Express API, DOM-based interception
-
-Dec 2025 – May 2026    LLM Research Intern, CMU School of Computer Science
-                        → Rule-based reasoning for LLM tutoring agents (Cognitive
-                          Authoring Tools); 1,000+ lines shipped to a live research codebase
-```
-
----
-
-###  Hackathons
-
-Built **[Laundr](https://github.com/hethb/Laundr)** at **HackCMU 2025**.
-
-Built **[Séance](https://github.com/hethb/Seance)** at **Cal AI Hacks 2026**.
-
----
 
 ###  GitHub Stats
 
