@@ -13,7 +13,7 @@
 ###  About Me
 
 -  **B.S. Information Systems** (+ CS) @ **Carnegie Mellon University** — Class of 2028
--  Machine Learning Intern @ **Sanford Burnham Prebys**, building pipelines to help fine tune vision learning models
+-  Machine Learning Intern @ **Sanford Burnham Prebys**, building PyTorch pipelines to help fine tune vision learning models
 -  LLM Research Intern @ **CMU School of Computer Science**, working on reasoning systems for tutoring agents
 -  Published researcher — identified **ZNF835** as a candidate oncogene via CNN-based image classification
 -  Phi Delta Theta · CMU Poker
